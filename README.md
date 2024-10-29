@@ -35,7 +35,7 @@ https://pages.awscloud.com/GLOBAL-ln-GC-Traincert-Associate-Certification-Challe
 
 ## AWS DIGITAL BADGES
 
-𝟭. 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗕𝗮𝗱𝗴𝗲𝘀 𝘄𝗶𝘁𝗵 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗕𝗮𝗱𝗴𝗲 𝗣𝗮𝘁𝗵 𝗼𝗻 𝗦𝗸𝗶𝗹𝗹𝗕𝘂𝗶𝗹𝗱𝗲𝗿 (𝗙𝗿𝗲𝗲):
+𝟭. (FREE / GRATUITO ) 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗕𝗮𝗱𝗴𝗲𝘀 𝘄𝗶𝘁𝗵 𝗞𝗻𝗼𝘄𝗹𝗲𝗱𝗴𝗲 𝗕𝗮𝗱𝗴𝗲 𝗣𝗮𝘁𝗵 𝗼𝗻 𝗦𝗸𝗶𝗹𝗹𝗕𝘂𝗶𝗹𝗱𝗲𝗿:
 
 - Go to the AWS SkillBuilder website and create a free account.
 - Search for "Knowledge Badge" to find badge learning plans.
