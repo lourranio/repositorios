@@ -54,3 +54,4 @@ https://pages.awscloud.com/GLOBAL-ln-GC-Traincert-Associate-Certification-Challe
 - Earn badges upon course completion to showcase your applied knowledge.
 
 🔗 Register for hands-on labs with AWS Educate: https://lnkd.in/gjNDjkZm
+Ou pelo link https://aws.amazon.com/pt/education/awseducate/
